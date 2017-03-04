@@ -18,11 +18,11 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #efc8c4;
+  color: #d7b4b0;
 }
 a:hover,
 a:focus {
-  color: #efc8c4;
+  color: #d7b4b0;
   text-decoration: none;
 }
 a img:hover,
@@ -108,14 +108,14 @@ hr.small {
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #efc8c4;
+    color: #d7b4b0;
   }
   .navbar-custom.is-fixed .nav li a {
     color: #404040;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #efc8c4;
+    color: #d7b4b0;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -210,7 +210,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #efc8c4;
+  color: #d7b4b0;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -234,7 +234,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #efc8c4;
+  color: #d7b4b0;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -314,7 +314,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #efc8c4;
+  color: #d7b4b0;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -333,8 +333,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #efc8c4;
-  border: 1px solid #efc8c4;
+  background-color: #d7b4b0;
+  border: 1px solid #d7b4b0;
   color: white;
 }
 .pager {
@@ -361,8 +361,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #efc8c4;
-  border: 1px solid #efc8c4;
+  background-color: #d7b4b0;
+  border: 1px solid #d7b4b0;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
@@ -375,12 +375,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #efc8c4;
+  background: #d7b4b0;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #efc8c4;
+  background: #d7b4b0;
 }
 img::selection {
   color: white;
@@ -391,5 +391,5 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #efc8c4;
+  webkit-tap-highlight-color: #d7b4b0;
 }
