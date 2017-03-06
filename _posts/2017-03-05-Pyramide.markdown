@@ -1,25 +1,36 @@
 ---
 layout:     post
-title:      "La pyramide de Pau"
-subtitle:   "Vous êtes nouveau sur le campus universitaire de Pau? Voici un endroit sympa que vous pourriez aller voir."
+title:      "Un tour dans l'université de Pau"
+subtitle:   "Venez visiter la pyramide située sur le campus universitaire de Pau."
 
 description: "Quelques photos et informations sur la pyramide des sciences."
 date:       2017-03-05
 author:     "Denisa Stan"
 header-img: "img/post-bg-07.jpg"
 ---
-Dans cet article, je vais vous présenter la pyramide des sciences située sur le campus de  l'[Université de Pau](http://www.univ-pau.fr/fr/index.html).
+Dans cet article, je vais vous présenter la pyramide de la faculté des sciences située sur le campus de  l'[université de Pau](http://www.univ-pau.fr/fr/index.html).
 
-<center><img src="/img/posts/2017-03-05-Pyramide/pyramide-1.jpg" width="600"></center>
+<center><img src="/img/posts/2017-03-05-Pyramide/pyramide-1.jpg" width="600" alt="denisa" title="Denisa"></center>
+<div class="caption">La pyramide derrière la faculté des sciences</div>
 
-<p>À la base de quelconque pyramide on a le triangle, symbole parfait de la raison, mais aussi de la stabilité. En trois dimensions, ce triangle devient une pyramide, qui nous renvoie directement aux pyramides égyptiennes mais pas seulement.</p>
+<h2>Quelques mots sur les pyramides</h2>
 
-<p>Prenons un exemple plus proche de nous : la Pyramide du Louvre a la même symbolique que les pyramides égyptiennes, elle représente plus précisément la domination de la « culture » et de l'humain sur la « nature », que ce soit à travers la construction en soi mais aussi ses matériaux. La nature serait en fait "niée" et "soumise" et nous voyons apparaître le principe de corriger la nature pour y imposer la symétrie, les figures géométriques et l'alignement des arbres. </p>
+<p>À la base de quelconque pyramide on a le triangle, <b>symbole parfait de la raison</b>, mais aussi de la stabilité. En trois dimensions, ce triangle devient une pyramide, qui nous renvoie directement aux pyramides égyptiennes mais pas seulement.</p>
 
-<p>Le choix d'une pyramide derrière la faculté de sciences, et non pas celle de lettres ou droit, n'est pas anodin. Elle représente la domination de l'humain et des sciences exactes sur la nature avec la stabilité, la précision et la raison. Chaque sommet de la base de la pyramide pointe vers un bâtiment scientifique, qui sont au total au nombre de quatre puisqu'il y a quatre triangles. Le 3 qu'il y a au sol est la lettre grecque Epsilon, une lettre très utilisée en mathématiques.</p>
+<p>Prenons un exemple plus proche de nous : la <a href="http://www.parisinfo.com/transports/73203/Pyramide-du-Louvre">Pyramide du Louvre</a> a la même symbolique que les pyramides égyptiennes. Que ce soit à travers la construction en soi mais aussi  matériaux, elle représente la <b>domination de la culture et de l'humain sur la nature</b>. La nature serait alors "niée", "soumise" et corrigée puisque la symétrie, les figures géométriques et l'alignement des arbres y sont imposés. </p>
+
+<h2>Une pyramide sur le campus</h2>
+
+<p>Le choix d'une pyramide derrière la faculté de sciences, et non pas celle de lettres ou droit, n'est pas anodin. Elle représente la <b>domination de l'humain et des sciences exactes</b> sur la nature avec la stabilité, la précision et la raison.</p>
+
+<p>Chaque sommet de la base de la pyramide pointe vers un bâtiment scientifique, qui sont au total au nombre de quatre. Le 3 qui apparaît au sol est la lettre grecque Epsilon, une lettre très utilisée en mathématiques.</p>
+
+<center><img src="/img/posts/2017-03-05-Pyramide/pyramide-2.jpg" width="600"></center>
+<div class="caption">Au sol, la lettre greque Epsilon</div>
+
+<h2>Jeux et sciences</h2>
+
+<p>Le fameux bonhomme jaune de <a href="http://pacman.com/en/pac-man-history">Pac-Man</a> est construit à coté de la pyramide. Le jeu nous renvoie à la détente et à la distraction, nécessaires peu importe le domaine d'étude ou de travail, et il peut aussi renvoyer à l'esprit geek. Son choix derrière la faculté des sciences n'est pas non plus anodin, puisque l'informatique fait aussi partie des sciences exactes.</p>
 
 <center><img src="/img/posts/2017-03-05-Pyramide/pyramide-3.jpg" width="600"></center>
-
-<p>On va finir avec le jeu de PacMan puisque le fameux bonhomme jaune est construit à coté de la pyramide. Le jeu nous renvoie à la détente et à la distraction nécessaire peu importe le domaine, et il peut aussi renvoyer à l'esprit geek. Son choix derrière la faculté des sciences n'est pas non plus anodin, puisque l'informatique fait aussi partie des sciences exactes.</p>
-
-<center><img src="/img/posts/2017-03-05-Pyramide/pyramide-4.jpg" width="600"></center>
+<div class="caption">À côté de la pyramide, le symbole du jeu Pac-Man</div>
