@@ -1,36 +1,35 @@
 ---
 layout:     post
 title:      "Un tour dans l'université de Pau"
-subtitle:   "Venez visiter la pyramide située sur le campus universitaire de Pau."
 
 description: "Quelques photos et informations sur la pyramide des sciences."
 date:       2017-03-05
 author:     "Denisa Stan"
 header-img: "img/post-bg-07.jpg"
 ---
-Dans cet article, je vais vous présenter la pyramide de la faculté des sciences située sur le campus de  l'[université de Pau](http://www.univ-pau.fr/fr/index.html).
+C'est après 5 ans sur le [campus universitaire de Pau](http://www.univ-pau.fr/fr/index.html) que je remarque cette petite pyramide à la faculté des sciences. J'ai fait cette découverte dans le cadre d'un projet de Master.
 
 <center><img src="/img/posts/2017-03-05-Pyramide/pyramide-1.jpg" width="600" alt="denisa" title="Denisa"></center>
-<div class="caption">La pyramide derrière la faculté des sciences</div>
+<div class="caption">La pyramide de la faculté des sciences</div>
 
-<h2>Quelques mots sur les pyramides</h2>
+## Quelques mots sur les pyramides
 
-<p>À la base de quelconque pyramide on a le triangle, <b>symbole parfait de la raison</b>, mais aussi de la stabilité. En trois dimensions, ce triangle devient une pyramide, qui nous renvoie directement aux pyramides égyptiennes mais pas seulement.</p>
+La pyramide peut être vue comme un **symbole d'unité** en raison de la convergence des arêtes de sa base vers le sommet. Elle est aussi **symbole d'ascension** tel que l'évolution d'un étudiant à l'université.
 
-<p>Prenons un exemple plus proche de nous : la <a href="http://www.parisinfo.com/transports/73203/Pyramide-du-Louvre">Pyramide du Louvre</a> a la même symbolique que les pyramides égyptiennes. Que ce soit à travers la construction en soi mais aussi  matériaux, elle représente la <b>domination de la culture et de l'humain sur la nature</b>. La nature serait alors "niée", "soumise" et corrigée puisque la symétrie, les figures géométriques et l'alignement des arbres y sont imposés. </p>
+La [Pyramide du Louvre](http://www.parisinfo.com/transports/73203/Pyramide-du-Louvre), comme les pyramides égyptiennes, représente la **domination de la culture et de l'humain sur la nature**. La nature serait alors "niée", "soumise" et corrigée puisque la symétrie, les figures géométriques et l'alignement des arbres y sont imposés.
 
-<h2>Une pyramide sur le campus</h2>
+## Une pyramide sur le campus
 
-<p>Le choix d'une pyramide derrière la faculté de sciences, et non pas celle de lettres ou droit, n'est pas anodin. Elle représente la <b>domination de l'humain et des sciences exactes</b> sur la nature avec la stabilité, la précision et la raison.</p>
+Une pyramide à la faculté des sciences n'est pas anodine. Elle représente la **domination de l'humain et des sciences exactes** sur la nature — avec la stabilité, la précision et la raison.
 
-<p>Chaque sommet de la base de la pyramide pointe vers un bâtiment scientifique, qui sont au total au nombre de quatre. Le 3 qui apparaît au sol est la lettre grecque Epsilon, une lettre très utilisée en mathématiques.</p>
+Chacun des quatre sommets de la base de la pyramide pointe vers un bâtiment scientifique. Le 3 qui apparaît au sol est la lettre grecque Epsilon (ε), une lettre très utilisée dans le domaine des sciences.
 
 <center><img src="/img/posts/2017-03-05-Pyramide/pyramide-2.jpg" width="600"></center>
 <div class="caption">Au sol, la lettre greque Epsilon</div>
 
 <h2>Jeux et sciences</h2>
 
-<p>Le fameux bonhomme jaune de <a href="http://pacman.com/en/pac-man-history">Pac-Man</a> est construit à coté de la pyramide. Le jeu nous renvoie à la détente et à la distraction, nécessaires peu importe le domaine d'étude ou de travail, et il peut aussi renvoyer à l'esprit geek. Son choix derrière la faculté des sciences n'est pas non plus anodin, puisque l'informatique fait aussi partie des sciences exactes.</p>
+Le fameux bonhomme [Pac-Man](http://pacman.com/en/pac-man-history) a été construit à coté de la pyramide et nous renvoie à la détente et à la distraction — il peut aussi renvoyer à l'esprit "geek", assez présent dans le domaine scientifique.
 
 <center><img src="/img/posts/2017-03-05-Pyramide/pyramide-3.jpg" width="600"></center>
 <div class="caption">À côté de la pyramide, le symbole du jeu Pac-Man</div>
